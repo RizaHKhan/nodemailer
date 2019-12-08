@@ -1,0 +1,29 @@
+{
+  "name": "nodemailerapp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000m\u0000a\u0000i\u0000l\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RizaHKhan/nodemailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RizaHKhan/nodemailerapp/issues"
+  },
+  "homepage": "https://github.com/RizaHKhan/nodemailer#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "nodemailer": "^6.4.1",
+    "nodemon": "^2.0.1"
+  }
+}
